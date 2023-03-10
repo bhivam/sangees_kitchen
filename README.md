@@ -1,3 +1,3 @@
 # sangees_kitchen
 
-A new Flutter project.
+App and website for Sangee's Kitchen, built with Flutter and love!
